@@ -1,0 +1,11 @@
+x:
+  - xinitrc
+  - xserverrc
+  - xsession
+
+pkg:
+  - makepkg.conf
+
+filesystem:
+  - make example encrypted setup (with encrypted swap with hibernation support)
+  - configure crypttab and fstab
